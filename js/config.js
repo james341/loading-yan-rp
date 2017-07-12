@@ -55,8 +55,8 @@ Multiple images will automatically shuffle between them
 var l_bgImages = [
 	"touhou01.jpg",
 	"touhou02.jpg",
-	"touhou03.jpg"
-        "touhou04.jpg"
+	"touhou03.jpg",
+        "touhou04.jpg",
         "touhou05.jpg"
 ];
 
@@ -115,7 +115,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing",
 	"The Admins Are AlWays Watching So Dont Fuck Up!",
-	"Please Do Not Minge In The Server?"
+	"Please Do Not Minge In The Server?",
         "School Is For Cool Kids XD?"
 ];
 
