@@ -89,14 +89,14 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "Ssvu2yncgWU", name: "We Are One - Vexento"},
-	{youtube: "SE_QDk3dR4c", name: "Candy-Coloured Sky"},
-	{youtube: "MkNeIUgNPQ8", name: "Adventures - A Himitsu"},
-	{youtube: "dOo2jWb73JY", name: "K-391 - Earth NCS Release"},
-	{youtube: "jK2aIUmmdP4", name: "Different Heaven & EH!DE - My Hearts"},
-	{youtube: "p7ZsBPK656s", name: "Disfigure - Blank"},
-	{youtube: "UzCFTyluxic", name: "Morning Sun - Nicolai Heidlas Music"},
-	{youtube: "AOeY-nDp7hI", name: "Alan Walker - Spectre [NCS Release]"},
+	{youtube: "BG9pjW0kpHQ", name: "Schoolday - Yandere Simulator OST"},
+	{youtube: "AdWyL0219WM", name: "choolday Type 2 - Yandere Simulator OST"},
+	{youtube: "4ec_GjF5lt8", name: "Cat Stevens - (Remember The Days Of The) Old Schoolyard"},
+	{youtube: "oq7B44odQ00", name: "Notice Me Senpai - Yandere simulator animated"},
+	{youtube: "q-PmAcEI8tw", name: "Even Yanderes Need To Love"},
+	{youtube: "b1Bsq3kbers", name: "Break Your Heart Taio Cruz"},
+	{youtube: "cws0HHWBQkI", name: "Yandere Simulator | Yandere-chan Song (Animation)"},
+	{youtube: "YKxO_03X6d4", name: "Yandere Simulator Rivals Introduction Video"}
 ];
 
 /*Random music order?*/
@@ -112,8 +112,9 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing",
-	"The Admins Are AllWays Watching So Dont Fuck Up!",
+	"The Admins Are AlWays Watching So Dont Fuck Up!",
 	"Please Do Not Minge In The Server?"
+        "School Is For Cool Kids XD?"
 ];
 
 /*Random message order?*/
