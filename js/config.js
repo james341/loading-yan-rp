@@ -100,6 +100,7 @@ var l_musicPlaylist = [
 	{youtube: "b1Bsq3kbers", name: "Break Your Heart Taio Cruz"},
 	{youtube: "cws0HHWBQkI", name: "Yandere Simulator | Yandere-chan Song (Animation)"},
 	{youtube: "YKxO_03X6d4", name: "Yandere Simulator Rivals Introduction Video"}
+
 ];
 
 /*Random music order?*/
