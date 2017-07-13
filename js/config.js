@@ -95,12 +95,10 @@ var l_musicPlaylist = [
 	{youtube: "AdWyL0219WM", name: "choolday Type 2 - Yandere Simulator OST"},
 	{youtube: "4ec_GjF5lt8", name: "Cat Stevens - (Remember The Days Of The) Old Schoolyard"},
 	{youtube: "oq7B44odQ00", name: "Notice Me Senpai - Yandere simulator animated"},
-	{youtube: "oRKx0mNDips", name: "Back To School-Jude Cole"},
 	{youtube: "q-PmAcEI8tw", name: "Even Yanderes Need To Love"},
 	{youtube: "b1Bsq3kbers", name: "Break Your Heart Taio Cruz"},
 	{youtube: "cws0HHWBQkI", name: "Yandere Simulator | Yandere-chan Song (Animation)"},
 	{youtube: "YKxO_03X6d4", name: "Yandere Simulator Rivals Introduction Video"}
-
 ];
 
 /*Random music order?*/
@@ -119,7 +117,6 @@ var l_messages = [
 	"The Admins Are AlWays Watching So Dont Fuck Up!",
 	"Please Do Not Minge In The Server?",
         "School Is For Cool Kids XD?"
-        "Do Not RDM OR RDA?"
 ];
 
 /*Random message order?*/
