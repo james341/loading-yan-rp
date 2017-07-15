@@ -91,14 +91,14 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "BG9pjW0kpHQ", name: "Schoolday - Yandere Simulator OST"},
-	{youtube: "AdWyL0219WM", name: "choolday Type 2 - Yandere Simulator OST"},
+	{youtube: "viwJ936D3mc", name: "Pompeii-Bastille"},
+	{youtube: "T3ldsF65cLM", name: "foster the people - pumped up kicks"},
 	{youtube: "4ec_GjF5lt8", name: "Cat Stevens - (Remember The Days Of The) Old Schoolyard"},
-	{youtube: "oq7B44odQ00", name: "Notice Me Senpai - Yandere simulator animated"},
-	{youtube: "q-PmAcEI8tw", name: "Even Yanderes Need To Love"},
-	{youtube: "b1Bsq3kbers", name: "Break Your Heart Taio Cruz"},
-	{youtube: "cws0HHWBQkI", name: "Yandere Simulator | Yandere-chan Song (Animation)"},
-	{youtube: "YKxO_03X6d4", name: "Yandere Simulator Rivals Introduction Video"}
+	{youtube: "9SmRIGd6zvg", name: "Pink Floyd - Another Brick In The Wall"},
+	{youtube: "LZBcYaxK-wU", name: "Back to School"},
+	{youtube: "qx5ud0y90iQ", name: "Tonights gonna be a good night"},
+	{youtube: "3JV74i4yvcA", name: "Train - Hey Soul Sister"},
+	{youtube: "Ginx7WKq5GE", name: "Passenger - Let Her Go"}
 ];
 
 /*Random music order?*/
